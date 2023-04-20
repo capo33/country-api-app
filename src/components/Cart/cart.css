@@ -1,0 +1,10 @@
+.cart
+  .cart_menu
+  .MuiPaper-root.MuiMenu-paper.MuiPopover-paper.MuiPaper-elevation8.MuiPaper-rounded {
+  width: 400px;
+  position: absolute;
+  top: 60;
+}
+.cart{
+    background-color: red;
+}
